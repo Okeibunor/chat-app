@@ -7,7 +7,8 @@
     "socket.io": "^4.1.3"
   },
   "scripts": {
-    "serve": "nodemon server"
+    "serve": "nodemon server",
+    "build":"node server"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
