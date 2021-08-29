@@ -8,7 +8,7 @@
   },
   "scripts": {
     "serve": "nodemon server",
-    "build":"npm install && node server"
+    "build":"node server"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
